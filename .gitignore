@@ -1,15 +1,4 @@
-# compiled output
-mnipaintr/dist
-mnipaintr/tmp
+# Directories
 
-# dependencies
-mnipaintr/node_modules
-mnipaintr/bower_components
+#Files
 
-# misc
-mnipaintr/.sass-cache
-mnipaintr/connect.lock
-mnipaintr/coverage/*
-mnipaintr/libpeerconnection.log
-mnipaintr/npm-debug.log
-mnipainter/testem.log
