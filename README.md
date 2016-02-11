@@ -8,7 +8,7 @@ As a miniature painter I naturally have a completely chaotic miniature collectio
 
 ## Architecture.
 
-I'm looking to build the entire front end in Ember JS, and have it query a JAVA rest API such as Jax-RS, all deployed to production through Tomcat.
+I had originally planned to use Ember JS to handle all the framework for the front end, and had planned to have the Ember JS front end consume RESTful web services served up by JaxRS from a Java Spring MVC framework. I'm still going to keep the backend in Java and Spring as I want to get more familiar with these, but the front end will be built with AngularJS. I found Ember Data to be too restrictive in how it expects data to be served from the back end, so Angular will take some of the headache out of integrating the backend and the front end. I don't want to spend time hacking adapters together to get data to display. Clean code is the goal here.
 
 ## A warning!
 
