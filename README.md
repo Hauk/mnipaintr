@@ -12,7 +12,7 @@ I had originally planned to use Ember JS to handle all the framework for the fro
 
 ## A warning!
 
-Initially this app will be quite primitive, as it is my first foray into building a full application. The milestones will be incredibly tiny, but with the hope that incremental achievements will yield results that can build on top of each other. i.e. Don't expect miracles. There will be mistakes.
+Initially this app will be quite primitive, as it is my first foray into building a full application. The milestones will be incredibly tiny, but with the hope that incremental achievements will yield results that can build on top of each other. i.e. Don't expect miracles. There will be mistakes. I will be including milestones around the environment setup right up to what I think is required to break down the problem into manageable chunks.
 
 ### First steps.
 The very first step will be to sit down and map out with a pen and a paper what the basic Milestone 0.1 UI is going to look like.
