@@ -20,4 +20,4 @@ The very first step will be to sit down and map out with a pen and a paper what 
 There will be a form that will allow a user to enter in details of a miniature, and when they save it, the data will be persisted to the database.
 There will be a query form that will allow users to query for all the miniatures in their collection which will then be rendered.
 
-I said primitive and I mean it. :) Carts and horses and all that.
+I said primitive and I mean it. :) We won't be putting the cart before the horse here.
